@@ -1,3 +1,5 @@
+We're using the chess.js library for the logic and chessboard.js for the display to make a randomized Ai vs. Ai game using Fischer's scheme
+
 # chess.js
 
 [![Build Status](https://travis-ci.org/jhlywa/chess.js.svg?branch=master)](https://travis-ci.org/jhlywa/chess.js)
